@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">You can contact me here.</p>
+<p align="left">You can contact me <a href="https://www.linkedin.com/in/cidoliveira1/">here</a>.</p>
 
 ###
 
