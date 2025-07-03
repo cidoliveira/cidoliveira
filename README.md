@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 (it's a feature, not a bug!)<br>🎓 Design Bachelor from PUC-Rio<br>📚 Currently pursuing a Master’s in Design at Universidade Federal do Rio de Janeiro<br>💻 Studying IT for a second Bachelor’s at PUC-Minas<br>🌈 Pronouns: he/they<br>🐾 Fun fact: I once debugged an entire project with a dog on my lap—it was a ruff day but totally worth it!</p>
+<p align="left">✨ Creating bugs since 2019 (it's a feature, not a bug!)<br>🎓 Design Bachelor from PUC-Rio<br>📚 Currently pursuing a Master’s in Design at Universidade Federal do Rio de Janeiro<br>💻 Studying IT for a second Bachelor’s at INFNET Institute<br>🌈 Pronouns: he/they<br>🐾 Fun fact: I once debugged an entire project with a dog on my lap—it was a ruff day but totally worth it!</p>
 
 ###
 
