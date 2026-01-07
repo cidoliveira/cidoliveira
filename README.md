@@ -2,7 +2,7 @@
 
 ![pixel art](https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif)
 
-### → [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/) ←
+### [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/)
 
 ▸ Rio de Janeiro, Brasil  
 ▸ Fullstack Developer and UX/UI Designer  
