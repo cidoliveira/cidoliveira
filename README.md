@@ -6,6 +6,6 @@
 
 ▸ Rio de Janeiro, Brasil  
 ▸ Fullstack Developer & UX/UI Designer  
-▸ Master in Design by Federal University of Rio de Janeiro
+▸ (almost) Master in Design by Federal University of Rio de Janeiro
 
 </div>
