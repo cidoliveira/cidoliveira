@@ -5,7 +5,7 @@
 ### [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/)
 
 ▸ Rio de Janeiro, Brasil  
-▸ Fullstack Developer & UX/UI Designer  
+▸ Fullstack Developer, Creative Coder & Product Designer  
 ▸ (almost) Master in Design by Federal University of Rio de Janeiro
 
 </div>
