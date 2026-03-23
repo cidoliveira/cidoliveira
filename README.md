@@ -8,8 +8,8 @@ Fullstack Developer, Creative Coder & Product Designer
 
 Bachelor in Design with emphasis on Digital Media by Pontifical Catholic University of Rio de Janeiro
 
-(almost) Master in Design by Federal University of Rio de Janeiro
+Master in Design by Federal University of Rio de Janeiro
 
-Portfolio: https://www.alcidesoliveira.com/
+https://www.alcidesoliveira.com/
 
 </div>
