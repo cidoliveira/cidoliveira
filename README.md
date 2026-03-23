@@ -4,7 +4,7 @@
 
 ### [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/)
 
-Fullstack Developer, Creative Coder & Product Designer  
+Software Engineer
 
 Bachelor in Design with emphasis on Digital Media by Pontifical Catholic University of Rio de Janeiro
 
