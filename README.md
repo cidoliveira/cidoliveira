@@ -4,7 +4,7 @@
 
 ### [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/)
 
-master of science in design & software engineer. pt-br/en
+Master of Science in Design by UFRJ & Software Engineer. PT-BR/EN
 
 https://www.alcidesoliveira.com/
 
