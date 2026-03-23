@@ -4,11 +4,7 @@
 
 ### [Cid Oliveira](https://www.linkedin.com/in/cidoliveira1/)
 
-Software Engineer
-
-Bachelor in Design with emphasis on Digital Media by Pontifical Catholic University of Rio de Janeiro
-
-Master in Design by Federal University of Rio de Janeiro
+master of science in design & software engineer. pt-br/en
 
 https://www.alcidesoliveira.com/
 
