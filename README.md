@@ -10,4 +10,6 @@ Bachelor in Design with emphasis on Digital Media by Pontifical Catholic Univers
 
 (almost) Master in Design by Federal University of Rio de Janeiro
 
+Portfolio: https://www.alcidesoliveira.com/
+
 </div>
