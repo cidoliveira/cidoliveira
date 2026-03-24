@@ -7,4 +7,4 @@
 Master of Science in Design by UFRJ & Software Engineer. PT-BR/EN<br>
 https://www.alcidesoliveira.com/
 
-</div>****
+</div>
